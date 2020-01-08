@@ -1,1 +1,82 @@
-theme: jekyll-theme-minimal
+# Site Settings
+baseurl: ""
+url : "https://matthewteece.com"
+
+# Blog Settings
+theme_settings :
+  title : Matthew Teece
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/headshot.png
+    username : Matthew Teece
+    description : We plan for days and days and when the time comes, we proceed to improvise.
+    experience :
+      - start : Sep 2018
+        end : Present
+        experience : Mobile Team Lead, Wagz
+      - start : Apr 2018
+        end : Sep 2018
+        experience : Senior iOS Engineer, Wagz
+      - start : May 2015
+        end : Apr 2018
+        experience : Senior Developer, Mad*Pow
+      - start : Sep 2012
+        end : May 2015
+        experience : Senior Software Engineer, PixelMEDIA
+      - start : Oct 2007
+        end : Sep 2012
+        experience : Software Engineer, PixelMEDIA
+      - start : Mar 2005
+        end : Oct 2007
+        experience : Web Application Developer, PixelMEDIA
+      - start : Jun 2004
+        end : Mar 2005
+        experience : Hosting Support and Maintenance, PixelMEDIA
+      - start :  Jun 2004
+        end :  Mar 2005
+        experience : Assistant Network Administrator, PixelMEDIA
+      - start : Oct 2003
+        end : Jun 2004
+        experience : Frontend Web Developer, PixelMEDIA
+      - start : Sep 2000
+        end : Present
+        experience : Technical Consultant, Freelance
+
+    skills : 
+      # - skill : Project Management
+      #   value : 75
+      # - skill : C
+      #   value : 40 
+      # - skill : Swift
+      #   value : 75
+      # - skill : Objective-C
+      #   value : 75
+  # Icons
+  icons :
+    email:  mteece@gmail.com
+    linkedin:  https://www.linkedin.com/in/mteece/
+    github: mteece
+    gitlab: doctorteece
+    bitbucket: mteece
+    google_plus:
+    twitter: doctorteece
+    youtube:
+    facebook: matthew.teece
+    instagram: doctorteece
+
+  # Disqus
+  disqus_shortname :
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate]
+bootstrap:
+  assets: true
