@@ -29,3 +29,23 @@
    ```
    bundle exec jekyll serve
    ```
+
+## Maintenance
+
+1. Run bundler
+
+   ```
+   bundle update && bundle install
+   ````
+2. Run the Jekyll server
+
+   ```
+   bundle exec jekyll serve
+   ```
+3. Push to master
+
+   ```
+   git push origin master
+   ```
+   
+4. Review on web
