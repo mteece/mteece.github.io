@@ -7,7 +7,7 @@ author: Matthew Teece
 comments : False
 ---
 
-In my orginal post {% post_url 2020-01-01-hello-world %} I outlined my intent to write and publish content for the first time throughout the year of 2020. Then COVID-19, caused by coronavirus SARS-CoV-2, started to spread in the United States. Between January and March of 2020 life changed dramatically.
+In my orginal post [Hello World]({% post_url 2020-01-01-hello-world %}) I outlined my intent to write and publish content for the first time throughout the year of 2020. Then COVID-19, caused by coronavirus SARS-CoV-2, started to spread in the United States. Between January and March of 2020 life changed dramatically.
 
 The most immediate impact to myself, spouse, and children was the closing of in-person school and on premise daycare. At the same time in early March we had just obtained an Individualized Education Program (IEP) for our 6 year old. I was fortunate to be working in the technology sector in a remote role, but my spouse had a disruptive start and had to adapt from traveling with regional sales.
 
