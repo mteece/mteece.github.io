@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-subtitle : Writing and publishing 
+subtitle : It is time to write and publish
 tags: [writing]
 author: Matthew Teece
 comments : False
