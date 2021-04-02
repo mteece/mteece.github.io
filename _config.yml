@@ -13,8 +13,17 @@ theme_settings :
     username : Matthew Teece
     description : We plan for days and days and when the time comes, we proceed to improvise.
     experience :
-      - start : Sep 2018
+      - start : Dec 2020
         end : Present
+        experience : Director of Engineering, Tribute
+      - start : Apr 2020
+        end : Dec 2020
+        experience : Technical Lead + Scrum Master, Ascendle
+      - start : Mar 2020
+        end : Apr 2020
+        experience : Technical Lead, Ascendle
+      - start : Sep 2018
+        end : Nov 2019
         experience : Mobile Team Lead, Wagz
       - start : Apr 2018
         end : Sep 2018
